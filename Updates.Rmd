@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <a href="/nletter/Aug25news.pdf" target="_blank">Newsletter August 2025.</a>
 
-<a href="/nletter/Oct24news.pdf" target="Newsletter October 2024">PDF.</a>
+<a href="/nletter/Oct24news.pdf" target="_blank">Newsletter October 2024.</a>
 
 ## Blogs & updates
 
