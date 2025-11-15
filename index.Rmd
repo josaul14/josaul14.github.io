@@ -17,12 +17,44 @@ This work is supported by a Dorothy Hodgkin Research Fellowship awarded to Dr Jo
 ![](images/ISLaND.png){width=50%}
 <br>
 
+### Project Overview
+
+#### Aim
+
+To investigate why some neurodivergent children have difficulty acquiring spoken language, and how this might impact their social, cognitive, and emotional development.
+
+#### Method
+
+* In 2023/24, just under 200 families with a minimally verbal child aged 4-12-years were recruited. Participants will be involved in four waves of data collection.
+
+* Data will be gathered across a range of domains measuring:
+
+* Children’s language abilities, including expressive and receptive vocabulary, motor and imitation skills, speech behaviors, preferred methods of communication, and therapeutic interventions.
+
+* Other child-related factors, such as autistic traits, adaptive skills, sleep or feeding difficulties, sensory sensitivities, regression, and puberty.
+
+* Wider family-related themes, including caregiver wellbeing, sibling relationships, and formal and informal carer support.  
+
+* This data will be obtained from a combination of caregiver questionnaires and natural language samples of the child communicating with either a family member or researcher.
+
+#### Outcome
+
+Gaining a better understanding of this topic will highlight how we can best support minimally verbal children and their families. 
+
+![](images/diagram.png){width=50%}
+
+
 ### Elucidating mechanisms of language growth in minimally verbal individuals
 
-Language is a uniquely human achievement which most young children accomplish with ease. However, an estimated 25% of autistic people never develop spoken language, remaining minimally verbal or non-speaking. I want to robustly test theories about mechanisms underpinning these individual differences. 
+* The primary aim of Project ISLaND is to elucidate mechanisms of language growth in minimally verbal children.
 
-Emerging research hypothesises that speech-motor planning deficits (apraxia) may form an additional barrier to oral communication for some autistic people. I will test this by establishing a large cohort of minimally verbal autistic children (aged 4-12 years), tracking their abilities to use speech as well as alternative forms of communication over the course of 3 years. Taking an inclusive transdiagnostic approach, it will include children regardless of their diagnostic status and any co-occurring conditions. 
+* Our ethos is characterised by an inclusive transdiagnostic approach, mixed methods data collection, open science practices, and co-production with stakeholders.
 
-I will harness parent-gathered data using technology (e.g. smartphones, wearable devices), to maximise participation and obtain a realistic picture of everyday language use. Later phases of the project will use an app to train speech production directly and assess the impact of improved speech on expressive language and broader communication as well as trialling support that aims to maximise use of augmentative and alternative communication forms.
+* In this longitudinal study, we will track the developmental trajectories of a large cohort of minimally verbal children aged 4-12-years, primarily focussing on their language profiles and communication skills. 
+
+* The findings will address theoretical questions about mechanisms underpinning individual differences in the spoken language abilities of this group, and add to the identification of early value-added predictors of language outcomes for minimally verbal individuals.
+
+* Once all four waves of data collection are complete, additional information will be sought regarding the educational attainment and medical records of each participant. This will allow us to also evaluate links between observed communication growth and objective health and education milestones. 
+
 
 

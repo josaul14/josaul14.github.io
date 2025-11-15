@@ -6,5 +6,12 @@ title: "News"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## Participant newsletters
+
+<a href="username.github.io/nletter/Aug25news.pdf" target="_blank">PDF.</a>
+
+<a href="username.github.io/nletter/Nov24news.pdf" target="_blank">PDF.</a>
+
+## Blogs & updates
 
 ![](images/Oct24news.png){width=100%}

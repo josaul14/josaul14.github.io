@@ -6,6 +6,8 @@ title: "Meet the Team"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# Project ISLaND Team
+
 ## Dr Jo Saul
 
 Dr Jo Saul is the leader of the ISLaND Lab and a Dorothy Hodgkin Research Fellow, funded by the Royal Society. 
@@ -14,7 +16,7 @@ She completed her ESRC-funded PhD at UCL in 2020, supervised by Professor Courte
 
 Jo is interested in individual differences in language development and how language impairment impacts mental health, learning and wellbeing. She is passionate about employing open science practices and robust statistical methods to maximise the quality of her research. As mum to a young person with additional needs, she feels strongly that research should reflect the voices of those with lived experience and thus employs participatory research methods and is keen to empower families to play an active role in research. She is also interested in intervention development and evaluation, particularly in how technology may be able to make interventions more accessible to help those with complex neurodevelopmental conditions. 
 
-Jo has been a member of the [the LiLaC lab](http://www.lilac-lab.org/) since 2016. She is also a member of Autistica’s Language and Communication Study Group.
+Jo has been a member of the [the Wellbeing and Language Lab](https://www.welllanglab.co.uk) since 2016. She was also a member of Autistica’s Language and Communication Study Group and is currently on the [Meeting on Language in Autism (MoLA) advisory board](https://molautism.org/about/advisory-board/).
 
 ![](images/Profile.jpg){width=50%}
 
@@ -22,26 +24,61 @@ View Jo's CV [here](www/CV_web.pdf)
 
 View her Google Scholar profile [here](https://scholar.google.com/citations?view_op=list_works&hl=en&user=lOhuIhkAAAAJ).
 
-## Mollie Cooke
+## Dr Lauren McGuinness
 
-Mollie is a research assistant on the project. 
+Dr Lauren McGuinness is a post-doctoral Research Fellow on the project.
 
-She recently completed a MSc in Clinical Neurodevelopmental Sciences at Kings' College London and prior to that worked for several years in the voluntary sector providing information, support and advocacy to parents, carers and young people with additional needs. 
+She completed her ESRC-funded PhD in Psychology in 2025, supervised by Dr Kisten Abbot-Smith at the University of Kent. Lauren’s PhD examined the pragmatic language abilities and communicative preferences of autistic and non-autistic children. During her PhD, Lauren completed a three-month placement at McGill University in Canda, where she worked on a project examining the efficacy of a parent-mediated AAC intervention for minimally verbal children.
 
-Mollie also has a loved one with complex support needs and she is passionate about including non-speaking and minimially verbal people in research.
+Lauren was also previously employed as a Social Researcher at the Office of the Children’s Commissioner, where she worked on projects for the Government’s Child Poverty Unit and the National Youth Strategy. This involved conducting qualitative fieldwork with vulnerable and disadvantaged children who had a range of additional needs. 
 
-![](images/Mollie.jpg){width=50%}
+Lauren is passionate about using mixed-methods research to improve our understanding of autistic children’s diverse communication needs and to promote inclusive, participatory approaches that amplify the voices of under-represented groups.
+
+
+![](images/Lauren.jpg){width=50%}
+# Project ISLaND Students
 
 ## Undergraduate students
 
-We are lucky to be joined by four amazing undergraduate students this year from the BSc, MSci Psychologyn and BSc Psychology and Language Sciences courses. They are doing a great job of coding communicative acts in our video data and supporting our data collection efforts.
+We are lucky to be joined by six amazing undergraduate students this year from the BSc in Psychology, BSc in Psychology and Language Sciences and iBSc courses. They are doing a great job of coding communicative acts in our video data and supporting our data collection efforts.
+
+### Aaliyah
+### Grace
+### Katie
+### Kelly
+### Mahak
+### Samaah
+
+
+## Post-graduate students
+
+We also have [three] masters students this year from the MSc in Psychological Sciences and Msc Speech and Language Therapy courses. They are taking part in our phonetic data coding and qualitative interview workstreams.
+
+### Hannah
+### Saamia
+### Harriet
+
+
+# Project ISLaND Alumni
+
+Lots of former colleagues, students and interns have helped us on our journey...
+
+## Mollie Cooke
+
+Mollie is a former research assistant on the project who is now a PhD candidate at the University of Surrey, where she is studying autism in genetic conditions.
+
+She completed a MSc in Clinical Neurodevelopmental Sciences at Kings' College London and prior to that worked for several years in the voluntary sector providing information, support and advocacy to parents, carers and young people with additional needs. 
+
+Mollie also has a loved one with complex support needs and she is passionate about including non-speaking and minimially verbal people in research. She is also a current member of the steering group.
+
+![](images/Mollie.jpg){width=50%}
+
+## Previous students
 
 ### Oliver
 
 ![](images/Oliver.png){width=50%}
 
-
-### Saamia 
 
 ### Natalie
 
