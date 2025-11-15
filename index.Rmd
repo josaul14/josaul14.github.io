@@ -14,7 +14,7 @@ This project will investigate the prevalence and significance of speech-motor pl
 
 This work is supported by a Dorothy Hodgkin Research Fellowship awarded to Dr Jo Saul in November 2022: link [here](https://royalsociety.org/news/2023/02/DHF-2022).
 
-![](images/ISLaND.png){width=50%}
+![](images/ISLaND.png){width=25%}
 <br>
 
 ## Project Overview
@@ -41,7 +41,7 @@ To investigate why some neurodivergent children have difficulty acquiring spoken
 
 Gaining a better understanding of this topic will highlight how we can best support minimally verbal children and their families. 
 
-![](images/diagram.png){width=50%}
+![](images/diagram.png){width=75%}
 
 
 ## Elucidating mechanisms of language growth in minimally verbal individuals
