@@ -17,13 +17,13 @@ This work is supported by a Dorothy Hodgkin Research Fellowship awarded to Dr Jo
 ![](images/ISLaND.png){width=50%}
 <br>
 
-### Project Overview
+## Project Overview
 
-#### Aim
+### Aim
 
 To investigate why some neurodivergent children have difficulty acquiring spoken language, and how this might impact their social, cognitive, and emotional development.
 
-#### Method
+### Method
 
 * In 2023/24, just under 200 families with a minimally verbal child aged 4-12-years were recruited. Participants will be involved in four waves of data collection.
 
@@ -37,14 +37,14 @@ To investigate why some neurodivergent children have difficulty acquiring spoken
 
 * This data will be obtained from a combination of caregiver questionnaires and natural language samples of the child communicating with either a family member or researcher.
 
-#### Outcome
+### Outcome
 
 Gaining a better understanding of this topic will highlight how we can best support minimally verbal children and their families. 
 
 ![](images/diagram.png){width=50%}
 
 
-### Elucidating mechanisms of language growth in minimally verbal individuals
+## Elucidating mechanisms of language growth in minimally verbal individuals
 
 * The primary aim of Project ISLaND is to elucidate mechanisms of language growth in minimally verbal children.
 
