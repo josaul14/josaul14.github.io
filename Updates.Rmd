@@ -8,9 +8,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Participant newsletters
 
-<a href="/nletter/Aug25news.pdf" target="_blank">PDF.</a>
+<a href="/nletter/Aug25news.pdf" target="_blank">Newsletter August 2025.</a>
 
-<a href="/nletter/Nov24news.pdf" target="_blank">PDF.</a>
+<a href="/nletter/Oct24news.pdf" target="Newsletter October 2024">PDF.</a>
 
 ## Blogs & updates
 
