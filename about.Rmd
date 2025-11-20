@@ -36,28 +36,62 @@ Lauren is passionate about using mixed-methods research to improve our understan
 
 
 ![](images/Lauren.jpg){width=50%}
+
+## Sama Soliman
+
+Sama has been a part time research assistant in our lab since finishing her MSc placement with us earlier this year. 
+
+![](images/Sama.jpg){width=50%}
+
 <br>
 # Project ISLaND Students
 
 ## Undergraduate students
 
-We are lucky to be joined by six amazing undergraduate students this year from the BSc in Psychology, BSc in Psychology and Language Sciences and iBSc courses. They are doing a great job of coding communicative acts in our video data and supporting our data collection efforts.
+We are lucky to be joined by some amazing undergraduate students this year from the BSc in Psychology, BSc in Psychology and Language Sciences and iBSc courses. They are doing a great job of coding communicative acts in our video data and supporting our data collection efforts. 
 
-<!-- ### Aaliyah -->
-<!-- ### Grace -->
 <!-- ### Katie -->
-<!-- ### Kelly -->
-<!-- ### Mahak -->
+<!-- ### Aaliyah -->
 <!-- ### Samaah -->
+
+### Grace
+
+Grace's project is "Exploring the Emotional and Practical Challenges of Raising a Minimally Verbal Child: A Mixed-Method Approach."
+
+![](images/Grace.jpeg){width=50%}
+
+### Kelly
+
+Kelly's project is "Parental Broad Autism Phenotype and Verbal Responsiveness."
+
+![](images/Kelly.jpg){width=50%}
+
+### Mahak
+
+Mahak's project is "How do caregivers experience and manage the challenges associated with feeding difficulties in minimally verbal children - a qualitative study."
+![](images/Mahak.jpeg){width=50%}
+
 
 
 ## Post-graduate students
 
 We also have several masters students this year from the MSc in Psychological Sciences and Msc Speech and Language Therapy courses. They are taking part in our phonetic data coding and qualitative interview workstreams.
 
-<!-- ### Hannah -->
-<!-- ### Saamia -->
+### Hannah
+
+Hannah's project is "What factors best predict progress in speech sound production among minimally verbal children?"
+
+![](images/Hannah.png){width=50%}
+
+### Saamia
+
+Saamia's project is "Predictors of Consonant Inventory in Minimally Verbal Children: The Role of Speech Imitation, Motivation, and Receptive Language."
+
+![](images/Saamia.jpg){width=50%}
+
 <!-- ### Harriet -->
+<!-- ### Scarlett -->
+<!-- ### Amy -->
 
 
 # Project ISLaND Alumni
@@ -76,6 +110,10 @@ Mollie also has a loved one with complex support needs and she is passionate abo
 
 ## Previous students
 
+### Anna
+
+![](images/anna_m.jpg){width=50%}
+
 ### Oliver
 
 ![](images/Oliver.png){width=50%}
@@ -85,8 +123,9 @@ Mollie also has a loved one with complex support needs and she is passionate abo
 
 ![](images/Natalie.png){width=50%}
 
-<!-- ### Supipi -->
+### Supipi
 
+![](images/Supipi.jpeg){width=50%}
 
 # Join us!
 
