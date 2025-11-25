@@ -142,9 +142,13 @@ Mollie also has a loved one with complex support needs and she is passionate abo
 ### Supipi
 
 ![](images/Supipi.jpeg){width=50%}
+
+<br>
 ### Bozhi
 
 ![](images/Bozhi.jpeg){width=50%}
+<br>
+
 # Join us!
 
 We hope to grow the lab steadily over the next few years - head to [Get involved](https://josaul14.github.io/get-involved.html) to find out about potential opportunities to join us or collaborate.
