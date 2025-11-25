@@ -42,3 +42,6 @@ d-article a {
   border-bottom: 2px solid red;
   text-decoration: none;
 }
+
+.content {margin-left: 0;
+}
