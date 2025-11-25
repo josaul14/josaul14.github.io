@@ -57,12 +57,14 @@ Katie's project is "Does education level moderate how parents adjust their utter
 
 ![](images/Katie.JPG){width=50%}
 <br>
+
 ### Aaliyah
 
 Aaliyah's project is "Evaluating the influence of depression on measures of child directed speech in parents of minimally verbal children with possible autism spectrum disorder."
 
 ![](images/Aaliyah.jpeg){width=50%}
 <br>
+
 ### Samaah
 
 Samaah's project is "Parental Education and Utterance Type: Examining Differences in
@@ -70,18 +72,21 @@ Directive and Responsive Communication Styles."
 
 ![](images/Samaah.jpg){width=50%}
 <br>
+
 ### Grace
 
 Grace's project is "Exploring the Emotional and Practical Challenges of Raising a Minimally Verbal Child: A Mixed-Method Approach."
 
 ![](images/Grace.jpeg){width=50%}
 <br>
+
 ### Kelly
 
 Kelly's project is "Parental Broad Autism Phenotype and Verbal Responsiveness."
 
 ![](images/Kelly.jpg){width=50%}
 <br>
+
 ### Mahak
 
 Mahak's project is "How do caregivers experience and manage the challenges associated with feeding difficulties in minimally verbal children - a qualitative study."
@@ -144,6 +149,7 @@ Mollie also has a loved one with complex support needs and she is passionate abo
 ![](images/Supipi.jpeg){width=50%}
 
 <br>
+
 ### Bozhi
 
 ![](images/Bozhi.jpeg){width=50%}
