@@ -23,7 +23,7 @@ output:
     css: styles.css
 
 #can also do navbar-left
-
+#add toc: true above if want toc
 #search: true
 
   # logo:
