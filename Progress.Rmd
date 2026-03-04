@@ -1,0 +1,22 @@
+---
+title: "Study progress"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Wave 3 Progress
+
+* Families who have completed both questionnaires: **64**
+
+* Families who have sent us all videos: **50**
+
+The prize draw winner for January has been notified.
+
+The next draw will be on **30th March.**
+
+We have started interviewing caregivers about their experiences as an extra optional part of our Wave 3 data collection. 
+
+* Interviews so far:  **9**

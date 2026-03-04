@@ -12,12 +12,19 @@ navbar:
       href: about.html
     - text: "Steering Group"
       href: Steering.html
-    - text: "Get involved"
-      href: get-involved.html
-    - text: "Links"
-      href: Links.html
+    - text: "Study progress"
+      href: Progress.html
+    - text: "Publications"
+      href: Pubs.html
     - text: "News"
       href: Updates.html
+    - text: "External resources"
+      href: Links.html
+    - text: "Get involved"
+      href: get-involved.html
+
+
+
 output: 
   distill::distill_article:
     css: styles.css

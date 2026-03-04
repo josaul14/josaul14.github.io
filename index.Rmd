@@ -10,51 +10,53 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## What is Project ISLaND?
 
-This project will investigate the prevalence and significance of speech-motor planning difficulties in neurodevelopmental conditions like autism, and how they relate to expressive language development. This will help us understand why some neurodivergent people have difficulty acquiring oral communication skills, and how best to support them.
+![](images/ISLaND.png){width=50%}
 
-This work is supported by a Dorothy Hodgkin Research Fellowship awarded to Dr Jo Saul in November 2022: link [here](https://royalsociety.org/news/2023/02/DHF-2022).
+### Lay summary
 
-![](images/ISLaND.png){width=25%}
-<br>
-
-## Project Overview
-
-### Aim
+#### Aim:
 
 To investigate why some neurodivergent children have difficulty acquiring spoken language, and how this might impact their social, cognitive, and emotional development.
 
-### Method
+#### Method:
 
-* In 2023/24, just under 200 families with a minimally verbal child aged 4-12-years were recruited. Participants will be involved in four waves of data collection.
+In 2023/24, just under 200 families with a minimally verbal child aged 4-12-years were recruited. Participants will be involved in four waves of data collection. Data will be gathered across a range of domains measuring:
 
-* Data will be gathered across a range of domains measuring:
-
-* Children’s language abilities, including expressive and receptive vocabulary, motor and imitation skills, speech behaviors, preferred methods of communication, and therapeutic interventions.
+* Children’s language abilities, including expressive and receptive vocabulary, motor and imitation skills, speech behaviours, preferred methods of communication, and therapeutic interventions.
 
 * Other child-related factors, such as autistic traits, adaptive skills, sleep or feeding difficulties, sensory sensitivities, regression, and puberty.
 
-* Wider family-related themes, including caregiver wellbeing, sibling relationships, and formal and informal carer support.  
+* Wider family-related themes, including caregiver wellbeing, sibling relationships, and formal and informal carer support.
 
-* This data will be obtained from a combination of caregiver questionnaires and natural language samples of the child communicating with either a family member or researcher.
+This data will be obtained from a combination of caregiver questionnaires and natural language samples of the child communicating with either a family member or researcher.
 
-### Outcome
+![](images/diagram.png){width=100%}
 
-Gaining a better understanding of this topic will highlight how we can best support minimally verbal children and their families. 
+#### Outcome:
 
-![](images/diagram.png){width=75%}
+Gaining a better understanding of this topic will highlight how we can best support minimally verbal children and their families.
 
 
-## Elucidating mechanisms of language growth in minimally verbal individuals
+### Academic summary
 
-* The primary aim of Project ISLaND is to elucidate mechanisms of language growth in minimally verbal children.
+#### Aim:
+
+The primary aim of Project ISLaND is to elucidate mechanisms of language growth in minimally verbal children. In particular, this project will investigate the prevalence and significance of speech-motor planning difficulties in neurodevelopmental conditions like autism, and how they relate to expressive language development.
+
+#### Method:
+
+* In this longitudinal study, we will track the developmental trajectories of a large cohort of minimally verbal children aged 4-12-years, primarily focussing on their language profiles and communication skills.
 
 * Our ethos is characterised by an inclusive transdiagnostic approach, mixed methods data collection, open science practices, and co-production with stakeholders.
 
-* In this longitudinal study, we will track the developmental trajectories of a large cohort of minimally verbal children aged 4-12-years, primarily focussing on their language profiles and communication skills. 
+* Once all four waves of data collection are complete, additional information will be sought regarding the educational attainment and medical records of each participant. This will allow us to also evaluate links between observed communication growth and objective health and education milestones.
 
-* The findings will address theoretical questions about mechanisms underpinning individual differences in the spoken language abilities of this group, and add to the identification of early value-added predictors of language outcomes for minimally verbal individuals.
+#### Outcome:
 
-* Once all four waves of data collection are complete, additional information will be sought regarding the educational attainment and medical records of each participant. This will allow us to also evaluate links between observed communication growth and objective health and education milestones. 
+The findings will address theoretical questions about mechanisms underpinning individual differences in the spoken language abilities of this group, and add to the identification of early value-added predictors of language outcomes for minimally verbal individuals.
+
+This work is supported by a Dorothy Hodgkin Research Fellowship awarded to Dr Jo Saul in November 2022: link [here](https://royalsociety.org/news/2023/02/dhf-2022/)
+
 
 
 

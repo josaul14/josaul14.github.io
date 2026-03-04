@@ -1,24 +1,28 @@
 ---
-title: "Useful links"
+title: "External resources"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Useful links
+
 If you are the parent or carer of a person with complex communication needs, you may find some of these links useful.
 
-## Education
+Further down you will find summaries of relevant research studies that we have put together.
+
+### Education
 
 https://www.ipsea.org.uk/
 
 https://sossen.org.uk/
 
-## Policy
+### Policy
 
 https://councilfordisabledchildren.org.uk/
 
-## Support
+### Support
 
 https://contact.org.uk/
 
@@ -28,13 +32,13 @@ https://www.sibs.org.uk/
 
 https://www.kids.org.uk/
 
-## Financial support
+### Financial support
 
 https://www.theboparancharitabletrust.com/
 
 https://www.familyfund.org.uk/
 
-## Therapy
+### Therapy
 
 https://www.rcslt.org/
 
@@ -42,7 +46,7 @@ https://speechandlanguage.org.uk/
 
 https://www.rcot.co.uk/
 
-## Research charities
+### Research charities
 
 https://rarechromo.org/
 
@@ -51,3 +55,6 @@ https://www.autistica.org.uk/
 https://embracingcomplexity.org.uk/
 
 
+## Research highlights
+
+Watch this space...

@@ -12,7 +12,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <a href="/nletter/Oct24news.pdf" target="_blank">Newsletter October 2024.</a>
 
-## Blogs & updates
+## Updates
 
 Watch this space ...
 <!-- ![](images/Oct24news.png){width=100%} -->
+
+
+
