@@ -17,4 +17,5 @@ Link to the full paper [here](https://link.springer.com/article/10.1186/s13229-0
 
 #### Video explanation:
 
-![](videos/cluster.mp4){width=100%}
+Watch this space...
+<!-- ![](videos/cluster.mp4){width=100%} -->
