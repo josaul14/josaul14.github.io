@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Updates
 
-![](updates/March Update.pdf){width=100%} 
+![](updates/March Update.png){width=100%} 
 
 
 
