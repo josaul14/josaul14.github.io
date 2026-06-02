@@ -9,14 +9,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Wave 3 Progress
 
-* Families who have completed both questionnaires: **85**
+* Families who have completed both questionnaires: **94**
 
-* Families who have sent us all videos: **78**
+* Families who have sent us all videos: **89**
 
-The prize draw winner for January has been notified.
+The prize draw winner for March/April has been notified.
 
-The next draw will be on **1st June.**
+The next draw will be on **31st July.**
 
 We have started interviewing caregivers about their experiences as an extra optional part of our Wave 3 data collection. 
 
-* Interviews so far:  **18**
+* Interviews so far:  **19**
