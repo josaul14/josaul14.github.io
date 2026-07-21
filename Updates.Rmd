@@ -14,7 +14,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Updates
 
-![](updates/June Update.png){width=100%} 
+![](updates/July Update.jpg){width=100%} 
+
+<a href="/updates/May Update.pdf" target="_blank">June 2026 Update</a>
 
 <a href="/updates/April Update.pdf" target="_blank">April 2026 Update</a>
 
